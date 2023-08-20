@@ -10,17 +10,17 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '分享编程',
-  HERO_TITLE_2: '与思维认知',
-  HERO_TITLE_3: 'TANGLY1024.COM',
+  HERO_TITLE_1: '今日爆款',
+  HERO_TITLE_2: '店长推荐',
+  HERO_TITLE_3: '',
   HERO_TITLE_4: '新版上线',
-  HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HERO_TITLE_LINK: 'https://tangly1024.com',
+  HERO_TITLE_5: '良辰美景，邂逅美丽',
+  HERO_TITLE_LINK: 'https://www.liangchen.life',
 
   // 英雄区显示三个置顶分类
-  HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HERO_CATEGORY_1: { title: '爆款推荐', url: '/tag/爆款推荐' },
+  HERO_CATEGORY_2: { title: '热门排行', url: '/tag/热门文章' },
+//  HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HERO_RECOMMEND_POST_TAG: '推荐',
