@@ -19,8 +19,8 @@ const CONFIG = {
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '爆款推荐', url: '/tag/爆款推荐' },
-  HERO_CATEGORY_2: { title: '热门排行', url: '/tag/热门文章' },
-//  HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HERO_CATEGORY_2: { title: '热门排行', url: '/tag/热门排行' },
+  HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HERO_RECOMMEND_POST_TAG: '推荐',
